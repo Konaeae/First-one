@@ -287,6 +287,19 @@
          "tilecount":6560,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":8974,
+         "image":"D:\/Zeugs\/Tilset\/Modern_Interiors\/1_Interiors\/32x32\/Interiors_32x32.png",
+         "imageheight":13120,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Interiors_32x32",
+         "spacing":0,
+         "tilecount":6560,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
