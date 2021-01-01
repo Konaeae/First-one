@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"file",
-                 "value":"https:\/\/github.com\/workadventure-chemnitz\/horst-menzel-strasse"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/workadventure-chemnitz.github.io\/horst-menzel-strasse\/horst-menzel-strasse.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
