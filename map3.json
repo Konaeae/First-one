@@ -40,9 +40,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exithttps:\/\/github.com\/workadventure-chemnitz\/horst-menzel-strasse",
-                 "type":"bool",
-                 "value":true
+                 "name":"exitUrl",
+                 "type":"file",
+                 "value":"https:\/\/github.com\/workadventure-chemnitz\/horst-menzel-strasse"
                 }],
          "type":"tilelayer",
          "visible":true,
